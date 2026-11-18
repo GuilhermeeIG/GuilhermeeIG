@@ -1,36 +1,49 @@
-<h1 align="center">Hello World, I'm Guilherme 👋</h1>
-<h3 align="center">Co-founder & Desenvolvedor Full-Stack na <a href="https://vytacore.com.br">VytaCore</a> · Freelancer</h3>
+<h1 align="center">Guilherme Santos</h1>
+<p align="center"><b>Co-founder & Full-Stack Developer at <a href="https://vytacore.com.br">VytaCore</a></b><br/>I build e-commerce systems, marketplace integrations and AI automation that run in production.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=E-commerce+%26+integra%C3%A7%C3%B5es+com+marketplaces;Automa%C3%A7%C3%A3o+com+IA;React+%C2%B7+Node.js+%C2%B7+Laravel+%C2%B7+Python" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/guilherme-vytacore/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://vytacore.com.br"><img src="https://img.shields.io/badge/VytaCore-1F7A4D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VytaCore" /></a>
 </p>
 
+## About
+
+- Co-founder at **VytaCore**, responsible for all technology: customer app, e-commerce, marketplace integrations and automation
+- Systems live in production serving customers, affiliates and fulfillment
+- Studying **Systems Analysis and Development** at IFSP (Instituto Federal de São Paulo), graduating in 2027
+- AI-assisted development as part of the daily workflow, without cutting corners on tests, security and documentation
+- Based in Campos do Jordão, Brazil · open to tech partnerships and networking
+
+## Featured work
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **[VYTACore App](https://github.com/GuilhermeeIG/app-vytacore)** | Client ↔ specialist platform with gamification, real-time chat and recurring payments | React · Node.js · MongoDB · Socket.io | [Live](https://app.vytacore.com.br) |
+| **[Affiliate Dashboard](https://github.com/GuilhermeeIG/painel-afiliados-vytacore)** | Affiliate gamification on the official Shopee and TikTok Shop APIs | Laravel · MySQL · React | [Live](https://afiliadosvytacore.com) |
+| **[VYTA Store](https://github.com/GuilhermeeIG/loja-vyta)** | Headless e-commerce with SSR on Cloudflare and Yampi checkout | TanStack Start · TypeScript | [Live](https://vytacore.com.br) |
+| **[Setify](https://github.com/GuilhermeeIG/setify)** | AI short-form video pipeline: workspace, orchestrator, extension and auto-editor | Python · FFmpeg · Whisper | [Screenshots](https://github.com/GuilhermeeIG/setify) |
+| **[AI Outreach Bot](https://github.com/GuilhermeeIG/robo-afiliados-ia)** | 24/7 affiliate prospecting and support with generative AI | Python · FastAPI · Docker | [Overview](https://github.com/GuilhermeeIG/robo-afiliados-ia) |
+| **[Confere](https://github.com/GuilhermeeIG/confere-envios)** | Shipment verification with barcode scanning, integrated with Shopee | PHP · MySQL · JavaScript | [Overview](https://github.com/GuilhermeeIG/confere-envios) |
+
+## Tech stack
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-guilherme-dos-santos-820a792a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vytacore.com.br"><img src="https://img.shields.io/badge/VytaCore-1F7A4D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,vite,tailwind,nodejs,express,laravel,fastapi,mongodb,mysql,postgres,docker,cloudflare,linux,git&perline=9" alt="Tech stack" />
 </p>
 
 ---
 
-###  Sobre mim
+<details>
+<summary><b>Versão em português</b></summary>
 
--  Co-founder da **VytaCore**, cuidando de toda a tecnologia: app, e-commerce, integrações e automação
--  Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campos do Jordão
--  Uso desenvolvimento assistido por IA para construir rápido, com testes, segurança e documentação
--  Campos do Jordão, SP
+## Sobre mim
 
-###  Stack
+- Co-founder da **VytaCore**, responsável por toda a tecnologia: app, e-commerce, integrações com marketplaces e automação
+- Sistemas em produção atendendo clientes, afiliados e a expedição
+- Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campos do Jordão, com formatura prevista para 2027
+- Uso desenvolvimento assistido por IA no dia a dia, com testes, segurança e documentação
+- Campos do Jordão, SP · aberto a parcerias em tecnologia e networking
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,vite,tailwind,nodejs,express,laravel,fastapi,mongodb,mysql,postgres,docker,cloudflare,linux,git&perline=9" />
-</p>
+Os projetos em destaque estão na tabela acima; cada repositório tem a versão em português no final.
 
-###  Projetos em destaque
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| **App VYTACore** | Plataforma cliente ↔ especialista com gamificação, chat em tempo real e pagamentos recorrentes | React · Node.js · MongoDB · Socket.io |
-| **Painel de Afiliados** | Gamificação de afiliados integrada às APIs da Shopee e do TikTok Shop (em produção) | Laravel · MySQL · React |
-| **Loja VYTA** | E-commerce com SSR no Cloudflare e checkout Yampi | TanStack Start · TypeScript |
-| **Setify** | Plataforma de produção de vídeos curtos com IA (workspace, orquestrador, extensão e editor) | Python · FFmpeg · Whisper |
-| **Robô de Afiliados** | Automação 24/7 com IA generativa, publicada em VPS | Python · FastAPI · Docker |
+</details>
