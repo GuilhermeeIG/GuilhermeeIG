@@ -14,10 +14,10 @@
 
 ###  Sobre mim
 
-- 💼 Co-founder da **VytaCore**, cuidando de toda a tecnologia: app, e-commerce, integrações e automação
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campos do Jordão
-- 🤖 Uso desenvolvimento assistido por IA para construir rápido, com testes, segurança e documentação
-- 📍 Campos do Jordão, SP
+-  Co-founder da **VytaCore**, cuidando de toda a tecnologia: app, e-commerce, integrações e automação
+-  Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campos do Jordão
+-  Uso desenvolvimento assistido por IA para construir rápido, com testes, segurança e documentação
+-  Campos do Jordão, SP
 
 ###  Stack
 
