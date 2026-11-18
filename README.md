@@ -35,11 +35,7 @@
 | **Setify** | Plataforma de produção de vídeos curtos com IA (workspace, orquestrador, extensão e editor) | Python · FFmpeg · Whisper |
 | **Robô de Afiliados** | Automação 24/7 com IA generativa, publicada em VPS | Python · FastAPI · Docker |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeeIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+### 🔥 Constância
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GuilhermeeIG&theme=tokyonight&hide_border=true" />
