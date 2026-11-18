@@ -12,20 +12,20 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 - 💼 Co-founder da **VytaCore**, cuidando de toda a tecnologia: app, e-commerce, integrações e automação
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFSP Campos do Jordão
 - 🤖 Uso desenvolvimento assistido por IA para construir rápido, com testes, segurança e documentação
 - 📍 Campos do Jordão, SP
 
-### 🛠️ Stack
+###  Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,vite,tailwind,nodejs,express,laravel,fastapi,mongodb,mysql,postgres,docker,cloudflare,linux,git&perline=9" />
 </p>
 
-### 📂 Projetos em destaque
+###  Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
